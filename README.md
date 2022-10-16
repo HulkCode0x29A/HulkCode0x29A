@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Finch
+- 👀 I’m interested in computer graphics 
+- 🌱 I’m currently learning unity and some mathematics
+- 📫 You can contact me by email 1749268422@qq.com
