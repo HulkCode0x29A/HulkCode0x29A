@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Finch
-- 👀 I’m interested in computer graphics 
-- 🌱 I’m currently learning unity and some mathematics
-- BiliBili:M_Finch
+
